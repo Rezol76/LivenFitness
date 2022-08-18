@@ -1,0 +1,34 @@
+body{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: darkorange;
+
+}
+
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: white 3px solid !important;
+}
+
+.about{
+    color: darkorange;
+    margin: 5%;
+    padding: 2% 0%;
+}
+
+.icon-boxes{
+    color: darkorange;
+    margin: 5%;
+    padding: 2% 0%;
+}
+
+
+.card-content{
+    background-color: white;
+    color: darkorange;
+}
+
+.section-follow .fa-5x{
+    padding: 5px 15px;
+}
